@@ -1,2 +1,2 @@
-# navigation-app-for-the-campus
-Navigation app for the ELTE Lágymányosi Campus
+# Navigation app for the Campus
+An indoor navigation app for the ELTE Lágymányosi Campus
